@@ -42,9 +42,9 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
         <env name="MY_EMAIL" value="berkaycolak42@gmail.com" />
         <env name="MY_PASS" value="8F95d4f1." />
-        <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
