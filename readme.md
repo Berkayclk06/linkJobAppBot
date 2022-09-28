@@ -11,3 +11,5 @@ Sadly,
 Since the websites are not static anymore and changes every day.  
 Probably this bot will not work tomorrow or later today.  
 It was a small Selenium Challenge.
+
+...and it was fun!
